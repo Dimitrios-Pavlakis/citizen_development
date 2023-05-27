@@ -1,3 +1,6 @@
 This is an example
 
 Next change
+
+Some more changes. Does this work?
+--------------------------------------
